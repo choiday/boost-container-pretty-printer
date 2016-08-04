@@ -11,3 +11,4 @@ Put this in your $(HOME)/.gdbinit file with proper path to pretty printers:
   register_boost_container_printers (None)
   end
 ```  
+If you're using windows - visual studio 2010 then, you could use autoexp.dat which is located in the Program Files\Microsoft Visual Studio 11.0\Common7\Packages\Debugger directory.
